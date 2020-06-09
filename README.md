@@ -13,7 +13,7 @@ These spreadsheets are the raw data called by the do-files above:
 * crosswalk.xlsx - geographic crosswalk
 
 ## Status
-This is a work in progress and data collection is on-going.
+This is a work in progress and data collection is on-going. If you have a lead on incorporation data that is currently missing, please do not hesitate to get in touch ([cgoodman@niu.edu](mailto:cgoodman@niu.edu)).
 
 | State | Number of Cities | Number Complete | Percentage Complete |
 | --- | ---: | ---: | ---: |
