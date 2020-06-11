@@ -18,7 +18,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | State | Number of Cities | Number Complete | Percentage Complete |
 | --- | ---: | ---: | ---: |
 | AK | 149  | 149  | 100.00% |
-| AL | 461  | 457  |  91.13% |
+| AL | 461  | 457  |  99.13% |
 | AR | 501  | 497  |  99.20% |
 | AZ | 91	  | 91	 | 100.00% |
 | CA | 482  | 482  | 100.00% |
@@ -39,7 +39,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | MD | 157  |	157  | 100.00% |
 | ME | 23   |	23   | 100.00% |
 | MI | 533  |	533	 | 100.00% |
-| MN | 853  |	276	 | 32.36%  |
+| MN | 853  |	829	 | 97.19%  |
 | MO | 944  |	913	 | 96.72%  |
 | MS | 298  |	298	 | 100.00% |
 | MT | 129  |	0	   | 0.00%   |
@@ -56,15 +56,15 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | OR | 240  |	240	 | 100.00% |
 | PA | 1013 |	1013 | 100.00% |
 | RI | 8    |	8	   | 100.00% |
-| SC | 270  |	0	   | 0.00%   |
+| SC | 270  |	16   | 5.93%   |
 | SD | 311  |	0	   | 0.00%   |
 | TN | 345  |	345  | 100.00% |
 | TX | 1217 |	1217 | 100.00% |
 | UT | 250  |	2    | 0.80%   |
-| VA | 228  |	103  | 45.18%  |
+| VA | 228  |	228  | 100.00% |
 | VT | 42   |	42   | 100.00% |
 | WA | 281  |	281  | 100.00% |
 | WI | 601  |	596  | 99.17%  |
 | WV | 232  |	232  | 100.00% |
 | WY | 99   |	94   | 94.95%  |
-| **Total** | **19,494** | **14,881** | **76.34%** |
+| **Total** | **19,494** | **15,559** | **79.81%** |
