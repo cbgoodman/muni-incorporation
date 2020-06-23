@@ -67,4 +67,4 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | WI | 601  |	596  | 99.17%  |
 | WV | 232  |	232  | 100.00% |
 | WY | 99   |	94   | 94.95%  |
-| **Total** | **19,494** | **16,286** | **83.54%** |
+| **Total** | **19,494** | **16,348** | **83.86%** |
