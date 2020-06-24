@@ -1,4 +1,11 @@
-# Municipal Incorporation
+# Municipal Incorporation Data
+
+* Last updated: `2020-06-24`
+* Jump to: [`code`](#contents-of-code) [`status`](#status) [`sources`](#sources)
+
+---
+
+## Description
 
 This repository will eventually contain the Stata code and raw spreadsheets needed to create an individual-level and state-specific dataset of dates of municipal incorporation for all active (contained in the Census of Governments) municipalities in the United States.
 
@@ -68,3 +75,58 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | WV | 232  |	232  | 100.00% |
 | WY | 99   |	94   | 94.95%  |
 | **Total** | **19,494** | **16,913** | **86.76%** |
+
+## Sources
+
+| State | Source |
+| --- | --- |
+| AK | Alaska Division of Community and Regional Affairs |
+| AL | Alabama League of Municipalities |
+| AR | Encyclopedia of Arkansas (Central Arkansas Library System) |
+| AZ | Arizona League of Cities and Towns |
+| CA | California Association of Local Agency Formation Commissions |
+| CO | Colorado State Planning Division |
+| CT | Connecticut Secretary of State's Office |
+| DE | State of Delaware |
+| FL | Florida League of Cities |
+| GA | Georgia Municipal Association |
+| HI | City of Honolulu |
+| IA | Iowa Secretary of State's Office |
+| ID | |
+| IL | Illinois Secretary of State's Office |
+| IN |
+| KS | Kansas Historical Society |
+| KY | Kentucky Secretary of State's Office |
+| LA | Louisiana Municipal Association |
+| MA | Massachusetts Secretary of State's Office |
+| MD | *Maryland's 157: The Incorporated Cities and Towns*, Maryland Municipal League |
+| ME | Maine Genealogy |
+| MI | Michigan Municipal League |
+| MN | *Minnesota Place Names*, Minnesota Historical Society |
+| MO | Missouri Secretary of State's Office |
+| MS | Mississippi Secretary of State's Office |
+| MT | 3rd Edition of the *Montana Municipal Officials Handbook* |
+| NC | North Carolina Secretary of State's Office |
+| ND | *North Dakota Centennial Blue Book, 1889-1989* |
+| NE | Nebraska Department of Economic Development |
+| NH | New Hampshire Community Profiles |
+| NJ | *The Story of New Jersey's Civil Boundaries, 1606-1968* |
+| NM | New Mexico Municipal League |
+| NV | Nevada League of Cities and Municipalities |
+| NY | Office of the New York State Comptroller; *Civil list and constitutional history of the Colony and State of New York* (1888); *Special report of the Commissioners of Statutory Revision in relation to Villages* (1897) |
+| OH | Ohio Secretary of State's Office |
+| OK |
+| OR | Oregon Secretary of State's Office |
+| PA | *Incorporation Dates for Pennsylvania Municipalities* (1965) |
+| RI | State of Rhode Island |
+| SC | *Towns of South Carolina* (1943, updated 1972), South Carolina State Planning Board |
+| SD |
+| TN | Tennessee Secretary of State's *Blue Book* |
+| TX | Texas Municipal League |
+| UT |
+| VA | Virginia State Law Portal, "Charters" |
+| VT | Vermont "Index to Municipal Charters" |
+| WA | MRSC of Washington |
+| WI | Wisconsin Department of Administration, Division of Intergovernmental Relations |
+| WV | West Virginia *Blue Book* |
+| WY | Wyoming State Archives |
