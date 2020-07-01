@@ -1,6 +1,6 @@
 # Municipal Incorporation Data
 
-* Last updated: `2020-06-24`
+* Last updated: `2020-06-30`
 * Jump to: [`code`](#contents-of-code) [`status`](#status) [`sources`](#sources)
 
 ---
@@ -50,7 +50,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | MO | 944  |	913	 | 96.72%  |
 | MS | 298  |	298	 | 100.00% |
 | MT | 129  |	129  | 100.00% |
-| NC | 552  |	237  | 42.93%  |
+| NC | 552  |	293  | 53.08%  |
 | ND | 357  |	356  | 99.72%  |
 | NE | 529  |	261  | 49.34%  |
 | NH | 13   |	13	 | 100.00% |
@@ -74,7 +74,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | WI | 601  |	596  | 99.17%  |
 | WV | 232  |	232  | 100.00% |
 | WY | 99   |	94   | 94.95%  |
-| **Total** | **19,494** | **16,913** | **86.76%** |
+| **Total** | **19,494** | **16,969** | **87.05%** |
 
 ## Sources
 
