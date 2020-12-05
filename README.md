@@ -1,6 +1,6 @@
 # Municipal Incorporation Data
 
-* Last updated: `2020-06-30`
+* Last updated: `2020-12-04`
 * Jump to: [`code`](#contents-of-code) [`status`](#status) [`sources`](#sources)
 
 ---
@@ -38,7 +38,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | IA | 943  |	942  | 99.89%  |
 | ID | 200  |	1    | 0.50%   |
 | IL | 1297 |	1297 | 100.00% |
-| IN | 567  |	0    | 0.00%   |
+| IN | 567  |	533  | 94.00%  |
 | KS | 625  |	625  | 100.00% |
 | KY | 417  |	413  | 99.04%  |
 | LA | 304  |	304  | 100.00% |
@@ -50,7 +50,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | MO | 944  |	913	 | 96.72%  |
 | MS | 298  |	298	 | 100.00% |
 | MT | 129  |	129  | 100.00% |
-| NC | 552  |	293  | 53.08%  |
+| NC | 552  |	547  | 99.09%  |
 | ND | 357  |	356  | 99.72%  |
 | NE | 529  |	261  | 49.34%  |
 | NH | 13   |	13	 | 100.00% |
@@ -67,14 +67,14 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | SD | 311  |	0	   | 0.00%   |
 | TN | 345  |	345  | 100.00% |
 | TX | 1217 |	1217 | 100.00% |
-| UT | 250  |	2    | 0.80%   |
+| UT | 250  |	73   | 29.20%  |
 | VA | 228  |	228  | 100.00% |
 | VT | 42   |	42   | 100.00% |
 | WA | 281  |	281  | 100.00% |
 | WI | 601  |	596  | 99.17%  |
 | WV | 232  |	232  | 100.00% |
 | WY | 99   |	94   | 94.95%  |
-| **Total** | **19,494** | **16,969** | **87.05%** |
+| **Total** | **19,494** | **17,823** | **91.43%* |
 
 ## Sources
 
@@ -94,7 +94,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | IA | Iowa Secretary of State's Office |
 | ID | |
 | IL | Illinois Secretary of State's Office |
-| IN |
+| IN | Davenport, *Indiana date book: incorporated municipalities and created counties* |
 | KS | Kansas Historical Society |
 | KY | Kentucky Secretary of State's Office |
 | LA | Louisiana Municipal Association |
