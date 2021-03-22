@@ -1,6 +1,6 @@
 # Municipal Incorporation Data
 
-* Last updated: `2020-12-04`
+* Last updated: `2021-03-22`
 * Jump to: [`code`](#contents-of-code) [`status`](#status) [`sources`](#sources)
 
 ---
@@ -64,7 +64,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | PA | 1013 |	1013 | 100.00% |
 | RI | 8    |	8	   | 100.00% |
 | SC | 270  |	261  | 96.67%  |
-| SD | 311  |	0	   | 0.00%   |
+| SD | 311  |	253  | 81.35%  |
 | TN | 345  |	345  | 100.00% |
 | TX | 1217 |	1217 | 100.00% |
 | UT | 250  |	73   | 29.20%  |
@@ -74,7 +74,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | WI | 601  |	596  | 99.17%  |
 | WV | 232  |	232  | 100.00% |
 | WY | 99   |	94   | 94.95%  |
-| **Total** | **19,494** | **17,823** | **91.43%** |
+| **Total** | **19,494** | **18,076** | **92.73%** |
 
 ## Sources
 
@@ -120,7 +120,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | PA | *Incorporation Dates for Pennsylvania Municipalities* (1965) |
 | RI | State of Rhode Island |
 | SC | *Towns of South Carolina* (1943, updated 1972), South Carolina State Planning Board |
-| SD |
+| SD | South Dakota Municipal League |
 | TN | Tennessee Secretary of State's *Blue Book* |
 | TX | Texas Municipal League |
 | UT |
