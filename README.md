@@ -67,14 +67,14 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | SD | 311  |	253  | 81.35%  |
 | TN | 345  |	345  | 100.00% |
 | TX | 1217 |	1217 | 100.00% |
-| UT | 250  |	73   | 29.20%  |
+| UT | 250  |	174  | 69.60% |
 | VA | 228  |	228  | 100.00% |
 | VT | 42   |	42   | 100.00% |
 | WA | 281  |	281  | 100.00% |
 | WI | 601  |	596  | 99.17%  |
 | WV | 232  |	232  | 100.00% |
 | WY | 99   |	94   | 94.95%  |
-| **Total** | **19,494** | **18,076** | **92.73%** |
+| **Total** | **19,494** | **18,177** | **93.24%** |
 
 ## Sources
 
@@ -123,7 +123,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | SD | South Dakota Municipal League |
 | TN | Tennessee Secretary of State's *Blue Book* |
 | TX | Texas Municipal League |
-| UT |
+| UT | Utah Lieutenant Governor City and town information files |
 | VA | Virginia State Law Portal, "Charters" |
 | VT | Vermont "Index to Municipal Charters" |
 | WA | MRSC of Washington |
