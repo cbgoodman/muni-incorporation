@@ -1,6 +1,6 @@
 # Municipal Incorporation Data
 
-* Last updated: `2021-03-22`
+* Last updated: `2021-05-05`
 * Jump to: [`code`](#contents-of-code) [`status`](#status) [`sources`](#sources)
 
 ---
@@ -36,7 +36,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | GA | 537  |	535  | 99.63%  |
 | HI | 1	  | 1    | 100.00% |
 | IA | 943  |	942  | 99.89%  |
-| ID | 200  |	1    | 0.50%   |
+| ID | 200  |	200  | 100.00% |
 | IL | 1297 |	1297 | 100.00% |
 | IN | 567  |	533  | 94.00%  |
 | KS | 625  |	625  | 100.00% |
@@ -74,7 +74,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | WI | 601  |	596  | 99.17%  |
 | WV | 232  |	232  | 100.00% |
 | WY | 99   |	94   | 94.95%  |
-| **Total** | **19,494** | **18,177** | **93.24%** |
+| **Total** | **19,494** | **18,376** | **94.26%** |
 
 ## Sources
 
@@ -92,7 +92,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | GA | Georgia Municipal Association |
 | HI | City of Honolulu |
 | IA | Iowa Secretary of State's Office |
-| ID | |
+| ID | *Idaho's 200 Cities* (2017)|
 | IL | Illinois Secretary of State's Office |
 | IN | Davenport, *Indiana date book: incorporated municipalities and created counties* |
 | KS | Kansas Historical Society |
