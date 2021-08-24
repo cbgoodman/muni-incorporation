@@ -1,6 +1,6 @@
 # Municipal Incorporation Data
 
-* Last updated: `2021-05-05`
+* Last updated: `2021-08-24`
 * Jump to: [`code`](#contents-of-code) [`status`](#status) [`sources`](#sources)
 
 ---
@@ -59,7 +59,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | NV | 19   |	19	 | 100.00% |
 | NY | 601  |	601	 | 100.00% |
 | OH | 931  |	929  | 99.79%  |
-| OK | 591  |	6	   | 1.02%   |
+| OK | 591  |	278	 | 47.04%  |
 | OR | 240  |	240	 | 100.00% |
 | PA | 1013 |	1013 | 100.00% |
 | RI | 8    |	8	   | 100.00% |
@@ -74,7 +74,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | WI | 601  |	596  | 99.17%  |
 | WV | 232  |	232  | 100.00% |
 | WY | 99   |	94   | 94.95%  |
-| **Total** | **19,494** | **18,376** | **94.26%** |
+| **Total** | **19494** |	**18649** |	**95.67%** |
 
 ## Sources
 
@@ -115,7 +115,7 @@ This is a work in progress and data collection is on-going. If you have a lead o
 | NV | Nevada League of Cities and Municipalities |
 | NY | Office of the New York State Comptroller; *Civil list and constitutional history of the Colony and State of New York* (1888); *Special report of the Commissioners of Statutory Revision in relation to Villages* (1897) |
 | OH | Ohio Secretary of State's Office |
-| OK |
+| OK | The Encyclopedia of Oklahoma History and Culture |
 | OR | Oregon Secretary of State's Office |
 | PA | *Incorporation Dates for Pennsylvania Municipalities* (1965) |
 | RI | State of Rhode Island |
