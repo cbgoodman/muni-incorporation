@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite it as below."
+authors:
+  - family-names: Goodman
+    given-names: Christopher B.
+    orcid: https://orcid.org/0000-0002-8565-9714
+title: "Municipal Incorporation Data, 1789-2020"
+version: 1.0.0
+date-released: 2023-03-03
+repository-code: "https://github.com/cbgoodman/muni-incorporation/"

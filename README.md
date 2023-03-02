@@ -11,6 +11,10 @@ This repository contains the Stata code and raw spreadsheets needed to create an
 
 These data generally are not self-reported by the incorporated government. These data are sourced from state-level actors, primarily state agencies responsible for tracking incorporations or state municipal leagues that collect data on their members. Importantly, these data are the first recognized date of incorporation. Many states allow re-incorporation (reasonably common in the late 1800s as statutory incorporation became popular, as opposed to incorporation via an act of the state legislature) that muddy the waters of when a place formed a municipal government.
 
+## Citation
+
+While there is a working paper forthcoming (please cite it when it comes out), I want to get these data into the world. As such, please cite this GitHub repo (see `Cite this repository' to the left).
+
 ## Contents of /code/
 Run the following do-files to create the individual-level and state-specific extracts. You will need to change the ${home} directory in these do-files to match your directory setup. The running the code will update and replace the contents of the /exports/ folder.
 * muni-incorp.do - creates an individual-level data
