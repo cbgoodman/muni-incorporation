@@ -13,7 +13,7 @@ These data generally are not self-reported by the incorporated government. These
 
 ## Citation
 
-While there is a working paper forthcoming (please cite it when it comes out), I want to get these data into the world. As such, please cite this GitHub repo (see `Cite this repository' to the left).
+While there is a working paper forthcoming (please cite it when it comes out), I want to get these data into the world. As such, please cite this GitHub repo (see `Cite this repository' to the right).
 
 ## Contents of /code/
 Run the following do-files to create the individual-level and state-specific extracts. You will need to change the ${home} directory in these do-files to match your directory setup. The running the code will update and replace the contents of the /exports/ folder.
