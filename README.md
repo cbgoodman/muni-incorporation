@@ -1,23 +1,26 @@
 # Municipal Incorporation Data
 
-* Last updated: `2021-08-24`
+* Last updated: `2023-03-02`
 * Jump to: [`code`](#contents-of-code) [`status`](#status) [`sources`](#sources)
 
 ---
 
 ## Description
 
-This repository will eventually contain the Stata code and raw spreadsheets needed to create an individual-level and state-specific dataset of dates of municipal incorporation for all active (contained in the Census of Governments) municipalities in the United States.
+This repository contains the Stata code and raw spreadsheets needed to create an individual-level and state-specific dataset of dates of municipal incorporation for all active (included in the Census of Governments) municipalities in the United States.
+
+These data generally are not self-reported by the incorporated government. These data are sourced from state-level actors, primarily state agencies responsible for tracking incorporations or state municipal leagues that collect data on their members. Importantly, these data are the first recognized date of incorporation. Many states allow re-incorporation (reasonably common in the late 1800s as statutory incorporation became popular, as opposed to incorporation via an act of the state legislature) that muddy the waters of when a place formed a municipal government.
 
 ## Contents of /code/
-Run the following do-files to create the individual-level and state-specific extracts. You will need to change the ${home} directory in these do-files to match your directory setup. The running the code will update and replace the contents of the /exports/ and /release/ folders.
+Run the following do-files to create the individual-level and state-specific extracts. You will need to change the ${home} directory in these do-files to match your directory setup. The running the code will update and replace the contents of the /exports/ folder.
 * muni-incorp.do - creates an individual-level data
-* muni-incorp-state.do - creates state specific data
+* muni-incorp-state.do - creates state-specific annual incorporation count data
 
 ## Contents of /rawdata/
 These spreadsheets are the raw data called by the do-files above:
-* cog-muni-incorp.xlsx - individual level dates of incorporation
-* crosswalk.xlsx - geographic crosswalk
+* muni-incorporation.xlsx - individual level dates of incorporation
+* fips_crosswalk.xlsx - geographic crosswalk
+* state_fips_crosswalk.xls - state-specific geographic crosswalk
 
 ## Status
 This is a work in progress and data collection is on-going. If you have a lead on incorporation data that is currently missing, please do not hesitate to get in touch ([cgoodman@niu.edu](mailto:cgoodman@niu.edu)).
