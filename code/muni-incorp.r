@@ -39,12 +39,12 @@ fips_crosswalk =
       "110239", "176012", "176736",
       "136405"
     )
-  ) |>
+  )# |>
   # create a spatial object
-  st_as_sf(
-    coords = c("lat", "long"),
-    crs = "EPSG:4326"
-  )
+  #st_as_sf(
+    #coords = c("lat", "long"),
+   # crs = 4326
+  #)
 
 # PREPARING THE MUNICIPAL INCORPORATION FILE
 muni_incorp =
