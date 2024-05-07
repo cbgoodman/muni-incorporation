@@ -55,6 +55,7 @@ muni_disincorp_full =
     by = c("census_id", "muniname", "statename")
   ) |>
   # Do some column cleanup
+  arrange(statename, yr_dissolve) |>
   relocate(c(state_abbv, countyname), .after = statename) |>
   relocate(geoid, .after = placecity) |>
   relocate(c(yr_incorp, yr_dissolve), .before = geometry)
