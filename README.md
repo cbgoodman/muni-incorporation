@@ -1,6 +1,6 @@
 # Municipal Incorporation Data
 
-* Last updated: `2024-05-07`
+* Last updated: `2025-03-01`
 * Jump to: [`code`](#contents-of-code) [`status`](#status) [`sources`](#sources)
 
 ---
