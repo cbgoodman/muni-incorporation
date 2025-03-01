@@ -27,12 +27,12 @@ disincorp_fips_crosswalk =
       lat = col_double(),
       long = col_double()
     )
-  ) |>
+  ) #|>
   # create a spatial object
-  st_as_sf(
-    coords = c("lat", "long"),
-    crs = "EPSG:4326"
-  )
+  #st_as_sf(
+  #  coords = c("lat", "long"),
+  #  crs = "EPSG:4326"
+  #)
 
 # PREPARING THE MUNICIPAL INCORPORATION FILE
 muni_disincorp =
